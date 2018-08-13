@@ -12,3 +12,5 @@
 ### Bot Framework
 ### Logic Apps
 ### Function Apps
+### Stream Analytics
+### API Management
