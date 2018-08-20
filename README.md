@@ -14,3 +14,4 @@
 ### Function Apps
 ### Stream Analytics
 ### API Management
+### Microsoft Flow
